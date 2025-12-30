@@ -3,7 +3,7 @@
 
 ## 📌 Project Overview
 
-This project is **Task 4: Context-Aware Chatbot Using LangChain or Retrieval-Augmented Generation (RAG)**.
+This project is **Context-Aware Chatbot Using LangChain or Retrieval-Augmented Generation (RAG)**.
 The goal of this project is to build an intelligent conversational chatbot that can **remember conversation context** and **retrieve relevant external information** during user interactions.
 
 The chatbot is designed using **LangChain**, **RAG architecture**, and is powered by **LLMs via the Groq API**.
